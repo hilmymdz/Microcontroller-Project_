@@ -7,7 +7,7 @@ Project ini merupakan proyek **Ujian Akhir Semester (UAS) mata kuliah Sistem Mik
 ## Anggota
 * Kelompok 9 - TIF RP 23 CID A
   * Hilmy Muhamad Dzakwan - 23552011368
-  * Helmi
+  * Helmi Ahmad Fauzan - 23552011433
   * Pedrik
 
 * Universitas Teknologi Bandung
